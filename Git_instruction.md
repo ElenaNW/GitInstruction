@@ -1,4 +1,5 @@
 ![логотип git](git_logo.jpg)
+![git_logo](https://user-images.githubusercontent.com/120498497/208587565-c5560093-3041-4458-a1f7-fc4f8081c3e0.jpg)
 # Работа с Git
 
 ## 1. Проверка наличия установленного Git
